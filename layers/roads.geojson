@@ -1,0 +1,887 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      300,
+      1450
+     ],
+     [
+      650,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J1--J2",
+    "from": "J1",
+    "to": "J2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      650,
+      1500
+     ],
+     [
+      1000,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J2--J3",
+    "from": "J2",
+    "to": "J3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      1500
+     ],
+     [
+      1400,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J3--J4",
+    "from": "J3",
+    "to": "J4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1400,
+      1500
+     ],
+     [
+      1750,
+      1450
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J4--J5",
+    "from": "J4",
+    "to": "J5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      650,
+      1500
+     ],
+     [
+      650,
+      1150
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J2--J6",
+    "from": "J2",
+    "to": "J6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      1500
+     ],
+     [
+      1000,
+      1050
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J3--J7",
+    "from": "J3",
+    "to": "J7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1400,
+      1500
+     ],
+     [
+      1400,
+      1150
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J4--J8",
+    "from": "J4",
+    "to": "J8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      650,
+      1150
+     ],
+     [
+      1000,
+      1050
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J6--J7",
+    "from": "J6",
+    "to": "J7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      1050
+     ],
+     [
+      1400,
+      1150
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J7--J8",
+    "from": "J7",
+    "to": "J8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      650,
+      1150
+     ],
+     [
+      650,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J6--J9",
+    "from": "J6",
+    "to": "J9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      1050
+     ],
+     [
+      1000,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J7--J10",
+    "from": "J7",
+    "to": "J10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1400,
+      1150
+     ],
+     [
+      1400,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J8--J11",
+    "from": "J8",
+    "to": "J11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      650,
+      800
+     ],
+     [
+      1000,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J9--J10",
+    "from": "J9",
+    "to": "J10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      800
+     ],
+     [
+      1400,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J10--J11",
+    "from": "J10",
+    "to": "J11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      800
+     ],
+     [
+      1000,
+      300
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J10--J12",
+    "from": "J10",
+    "to": "J12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1750,
+      1450
+     ],
+     [
+      1750,
+      1050
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J5--J13",
+    "from": "J5",
+    "to": "J13"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1750,
+      1050
+     ],
+     [
+      1400,
+      1150
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J13--J8",
+    "from": "J13",
+    "to": "J8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1750,
+      1050
+     ],
+     [
+      1400,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J13--J11",
+    "from": "J13",
+    "to": "J11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      300,
+      1450
+     ],
+     [
+      650,
+      1150
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J1--J6",
+    "from": "J1",
+    "to": "J6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      650,
+      800
+     ],
+     [
+      1000,
+      300
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J9--J12",
+    "from": "J9",
+    "to": "J12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1400,
+      800
+     ],
+     [
+      1000,
+      300
+     ]
+    ]
+   },
+   "properties": {
+    "id": "J11--J12",
+    "from": "J11",
+    "to": "J12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      200,
+      1650
+     ],
+     [
+      300,
+      1450
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 1--J1",
+    "from": "Hall 1",
+    "to": "J1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      500,
+      1700
+     ],
+     [
+      650,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 2--J2",
+    "from": "Hall 2",
+    "to": "J2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      850,
+      1720
+     ],
+     [
+      1000,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 3--J3",
+    "from": "Hall 3",
+    "to": "J3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1250,
+      1700
+     ],
+     [
+      1400,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 4--J4",
+    "from": "Hall 4",
+    "to": "J4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1650,
+      1650
+     ],
+     [
+      1750,
+      1450
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 5--J5",
+    "from": "Hall 5",
+    "to": "J5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1900,
+      1300
+     ],
+     [
+      1750,
+      1050
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 6--J13",
+    "from": "Hall 6",
+    "to": "J13"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1900,
+      900
+     ],
+     [
+      1750,
+      1050
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 7--J13",
+    "from": "Hall 7",
+    "to": "J13"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      150,
+      1100
+     ],
+     [
+      300,
+      1450
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Hall 8--J1",
+    "from": "Hall 8",
+    "to": "J1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      900
+     ],
+     [
+      1000,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Main Building--J10",
+    "from": "Main Building",
+    "to": "J10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      750,
+      1000
+     ],
+     [
+      650,
+      1150
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Academic Block A--J6",
+    "from": "Academic Block A",
+    "to": "J6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1250,
+      1000
+     ],
+     [
+      1400,
+      1150
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Academic Block B--J8",
+    "from": "Academic Block B",
+    "to": "J8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      800,
+      650
+     ],
+     [
+      650,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Academic Block C--J9",
+    "from": "Academic Block C",
+    "to": "J9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1250,
+      650
+     ],
+     [
+      1400,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Academic Block D--J11",
+    "from": "Academic Block D",
+    "to": "J11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      1180
+     ],
+     [
+      1000,
+      1050
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Central Library--J7",
+    "from": "Central Library",
+    "to": "J7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      650,
+      1350
+     ],
+     [
+      650,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Dining Centre--J2",
+    "from": "Dining Centre",
+    "to": "J2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1400,
+      1350
+     ],
+     [
+      1400,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Market--J4",
+    "from": "Market",
+    "to": "J4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      450,
+      900
+     ],
+     [
+      650,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Health Centre--J9",
+    "from": "Health Centre",
+    "to": "J9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      500,
+      450
+     ],
+     [
+      650,
+      800
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Sports Complex--J9",
+    "from": "Sports Complex",
+    "to": "J9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      450
+     ],
+     [
+      1000,
+      300
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Central Lawn--J12",
+    "from": "Central Lawn",
+    "to": "J12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      100
+     ],
+     [
+      1000,
+      300
+     ]
+    ]
+   },
+   "properties": {
+    "id": "Main Gate--J12",
+    "from": "Main Gate",
+    "to": "J12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1000,
+      1950
+     ],
+     [
+      1000,
+      1500
+     ]
+    ]
+   },
+   "properties": {
+    "id": "North Gate--J3",
+    "from": "North Gate",
+    "to": "J3"
+   }
+  }
+ ]
+}

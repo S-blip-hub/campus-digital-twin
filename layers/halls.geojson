@@ -1,0 +1,125 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     200,
+     1650
+    ]
+   },
+   "properties": {
+    "name": "Hall 1",
+    "kind": "hall",
+    "capacity": 650
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     500,
+     1700
+    ]
+   },
+   "properties": {
+    "name": "Hall 2",
+    "kind": "hall",
+    "capacity": 700
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     850,
+     1720
+    ]
+   },
+   "properties": {
+    "name": "Hall 3",
+    "kind": "hall",
+    "capacity": 600
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1250,
+     1700
+    ]
+   },
+   "properties": {
+    "name": "Hall 4",
+    "kind": "hall",
+    "capacity": 750
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1650,
+     1650
+    ]
+   },
+   "properties": {
+    "name": "Hall 5",
+    "kind": "hall",
+    "capacity": 650
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1900,
+     1300
+    ]
+   },
+   "properties": {
+    "name": "Hall 6",
+    "kind": "hall",
+    "capacity": 550
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1900,
+     900
+    ]
+   },
+   "properties": {
+    "name": "Hall 7",
+    "kind": "hall",
+    "capacity": 600
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150,
+     1100
+    ]
+   },
+   "properties": {
+    "name": "Hall 8",
+    "kind": "hall",
+    "capacity": 500
+   }
+  }
+ ]
+}

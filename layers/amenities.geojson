@@ -1,0 +1,50 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     650,
+     1350
+    ]
+   },
+   "properties": {
+    "name": "Dining Centre",
+    "kind": "amenity",
+    "capacity": 600
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1400,
+     1350
+    ]
+   },
+   "properties": {
+    "name": "Market",
+    "kind": "amenity",
+    "capacity": 800
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     450,
+     900
+    ]
+   },
+   "properties": {
+    "name": "Health Centre",
+    "kind": "amenity",
+    "capacity": 120
+   }
+  }
+ ]
+}

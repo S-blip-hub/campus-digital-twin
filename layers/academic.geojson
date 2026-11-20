@@ -1,0 +1,95 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1000,
+     900
+    ]
+   },
+   "properties": {
+    "name": "Main Building",
+    "kind": "academic",
+    "capacity": 2500
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     750,
+     1000
+    ]
+   },
+   "properties": {
+    "name": "Academic Block A",
+    "kind": "academic",
+    "capacity": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1250,
+     1000
+    ]
+   },
+   "properties": {
+    "name": "Academic Block B",
+    "kind": "academic",
+    "capacity": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     800,
+     650
+    ]
+   },
+   "properties": {
+    "name": "Academic Block C",
+    "kind": "academic",
+    "capacity": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1250,
+     650
+    ]
+   },
+   "properties": {
+    "name": "Academic Block D",
+    "kind": "academic",
+    "capacity": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1000,
+     1180
+    ]
+   },
+   "properties": {
+    "name": "Central Library",
+    "kind": "academic",
+    "capacity": 1200
+   }
+  }
+ ]
+}

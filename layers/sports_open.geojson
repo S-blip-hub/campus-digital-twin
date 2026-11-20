@@ -1,0 +1,35 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     500,
+     450
+    ]
+   },
+   "properties": {
+    "name": "Sports Complex",
+    "kind": "sports_open",
+    "capacity": 1200
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1000,
+     450
+    ]
+   },
+   "properties": {
+    "name": "Central Lawn",
+    "kind": "sports_open",
+    "capacity": 1500
+   }
+  }
+ ]
+}

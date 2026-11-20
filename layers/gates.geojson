@@ -1,0 +1,35 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1000,
+     100
+    ]
+   },
+   "properties": {
+    "name": "Main Gate",
+    "kind": "gate",
+    "capacity": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1000,
+     1950
+    ]
+   },
+   "properties": {
+    "name": "North Gate",
+    "kind": "gate",
+    "capacity": 0
+   }
+  }
+ ]
+}
