@@ -1,0 +1,14 @@
+{
+  "name": "campus-digital-twin-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web viewer for the campus digital twin",
+  "scripts": {
+    "build": "tsc -p web/tsconfig.json",
+    "watch": "tsc -p web/tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}

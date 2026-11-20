@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Campus Digital Twin · Weekday Movement</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Campus Digital Twin</h1>
+      <p>Simulated weekday movement of residents across halls, academic buildings, amenities and roads.</p>
+    </div>
+    <div class="controls">
+      <div id="days" class="days" role="group" aria-label="Weekday"></div>
+      <button id="play" class="play">Play</button>
+      <input id="time" type="range" min="0" value="12" aria-label="Time of day">
+      <span id="clock" class="clock"></span>
+    </div>
+  </header>
+
+  <main>
+    <section class="map-wrap">
+      <canvas id="map" aria-label="Campus map"></canvas>
+      <div id="tooltip" class="tooltip" hidden></div>
+      <div id="legend" class="legend"></div>
+      <p class="note">Filled circle: people present now. Dashed ring: capacity. Blue line width: trips in the current hour.</p>
+    </section>
+
+    <aside>
+      <div class="stats">
+        <div><span id="stat-away">–</span><small>residents out of their hall</small></div>
+        <div><span id="stat-halls">–</span><small>residents in halls</small></div>
+        <div><span id="stat-trips">–</span><small>segment crossings this hour</small></div>
+      </div>
+      <h2>Busiest places now</h2>
+      <ul id="busiest" class="list"></ul>
+      <h2>Busiest road segments this hour</h2>
+      <ul id="roads" class="list"></ul>
+    </aside>
+  </main>
+
+  <footer>Shrey Singh · Agent-based campus model · <a href="https://github.com/S-blip-hub/campus-digital-twin">Source</a></footer>
+
+  <script src="data.js"></script>
+  <script src="js/viewer.js"></script>
+</body>
+</html>
